@@ -1,6 +1,6 @@
 .container {
-    margin: 0 auto;
-    width: 768px;
+    margin: 0 ;
+    width: 700px;
     }
     .top-nav{
         background-color: #000000;
@@ -29,4 +29,8 @@
         display: flex;
         align-items: left;
 
+    }
+    .imagen{
+        display: flex;
+        align-items: center ;
     }
