@@ -34,3 +34,35 @@
         display: flex;
         align-items: center ;
     }
+    .container1{
+        position: relative;
+        display: inline-block;
+        text-align: center;
+    }
+    .centrado{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 100px;
+        position: absolute;
+        color: #ffffff;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .imagen1{
+        text-align: center;
+        justify-content: center;
+        transform: translateY(-30%);
+    }
+    .imagen2{
+        text-align: center;
+        justify-content: center;
+        transform: translateY(-30%);
+    }
+    #lollogo{
+        width: 430px;
+        height: 230px;
+    }
+    #tftlogo{
+        width:430px;
+        height: 230px;
+    }
